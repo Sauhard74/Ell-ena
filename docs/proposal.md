@@ -3,12 +3,12 @@
 ## Project Title: Ell-ena - AI Product Manager & Personal Assistant
 
 ### Personal Information
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Username]
-- **University:** [Your University]
-- **Program:** [Your Degree Program]
-- **Year:** [Your Year of Study]
+- **Name:** Sauhard Gupta
+- **Email:** sauhard74best@gmail.com
+- **GitHub:** https://github.com/Sauhard74
+- **University:** Birla Institute of Technology and Science Pilani
+- **Program:** Bachelors in Computer Science 
+- **Year:** Freshman Year (1st Year Undergrad)
 
 ### Project Abstract
 
@@ -71,7 +71,7 @@ The project will be implemented using a modern tech stack:
    - JWT authentication with Supabase
    - Swagger documentation for API endpoints
 
-3. **Database**: Supabase (PostgreSQL)
+3. **Database**: PostgreSQL and Neo4j
    - Relational data model for core entities
    - Row-level security for data protection
    - Real-time subscriptions for updates
@@ -123,7 +123,7 @@ The project will be implemented using a modern tech stack:
 
 ### About Me
 
-[Brief paragraph about your relevant experience, skills, and why you're interested in this project]
+I am crazy developer who love to build things from scratch and loves it when people use it and i am able to add value to their life , and thats why i contribute to open source too 
 
 ### References
 
