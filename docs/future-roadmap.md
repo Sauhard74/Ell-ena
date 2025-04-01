@@ -16,7 +16,7 @@ As I submit Ell-ena for GSoC, I view this as just the beginning of a much longer
 - **Customizable Themes**: Add dark mode and custom color themes
 - **Accessibility Improvements**: Enhance screen reader support and keyboard navigation
 
-> **Personal Goal:** I've been learning about accessibility standards and want to make Ell-ena truly inclusive. My freshman roommate has color blindness, and seeing his struggles with poorly designed apps motivated me to make this a priority.
+> **Personal Goal:** I've been learning about accessibility standards and want to make Ell-ena truly inclusive. My freshman roommate(Sambhav Bohra AkA Sammy) has color blindness, and seeing his struggles with poorly designed apps motivated me to make this a priority.
 
 #### Offline Capabilities
 - **Enhanced Offline Mode**: Improve functionality when no connection is available

@@ -29,12 +29,12 @@ You: "Remind me to submit the GSoC proposal by Friday at 5pm"
 Ell-ena: "Got it! I've created a reminder for 'Submit GSoC proposal' due this 
          Friday at 5:00 PM."
 
-[Two weeks later]
+[Two days later]
 
 You: "What was that deadline I had for the GSoC thing?"
 
-Ell-ena: "You had a reminder to 'Submit GSoC proposal' that was due last 
-         Friday at 5:00 PM. Did you complete this?"
+Ell-ena: "You had a reminder to 'Submit GSoC proposal' that was due this 
+         Friday at 5:00 PM. Did you complete this yet?"
 ```
 
 ## Planned Key Features

@@ -1,8 +1,5 @@
 # Natural Language Processing in Ell-ena
 
-## My Journey into NLP
-
-When I started building Ell-ena, I had a basic understanding of how Large Language Models (LLMs) worked, but I'd never built a production system that relied on them. The journey from "I want to parse tasks from text" to a reliable NLP system was filled with challenges, experiments, and many "aha" moments.
 
 > **Personal Note:** I still remember the excitement when I got my first successful task extraction working. I texted my roommate at 2 AM: "IT WORKS! IT ACTUALLY UNDERSTANDS ME!" That moment showed me the real power of what I was building.
 
