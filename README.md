@@ -2,6 +2,18 @@
 
 Ell-ena is a mobile-first, AI-powered Product Manager and Personal Assistant designed to help users manage tasks, create tickets, transcribe meetings, and maintain contextual awareness through natural language interactions.
 
+**Working Implementation as of 31st March 2025** :
+
+
+
+https://github.com/user-attachments/assets/8a93a0f3-8c3e-46c5-b99b-0c617cb76a70
+
+
+
+
+
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
